@@ -14,10 +14,28 @@ public class DataTypeConversion {
     static Logger logger = LoggerFactory.getLogger(DataTypeConversion.class.getName());
 
     public static void main(String[] args) {
+        autoConvert();
         convertIntLong();
         convertMax();
         convertFloat();
         convertString();
+    }
+
+    /**
+     * @Description: 类型级别：(从低到高的)   byte,short,char-->int--->long--->float--->double
+     * 级别用来做什么？当一个表达式中有多种数据类型的时候，要找出当前表达式中级别最高的那个类型
+     * 其余的类型都转换为当前表达式中级别最高的类型进行计算
+     * double d2 = 12+1294L+8.5F+3.81+'a';
+     * = 12.0+1294.0+8.5+3.81+97.0
+     * @Return: void
+     *
+     * @Creator: Tu-Yi
+     * @Date: 2021/1/5 12:11
+     *
+     */
+    public static void autoConvert(){
+        double d = 12+1294L+8.5F+3.81+'a';
+        logger.info("d:{}",d);
     }
 
     /**

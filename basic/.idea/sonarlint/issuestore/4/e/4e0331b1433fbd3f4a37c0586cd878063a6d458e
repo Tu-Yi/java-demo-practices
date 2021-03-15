@@ -1,9 +1,5 @@
 
-f
-java:S1192i"KDefine a constant instead of duplicating this literal "boolean:{}" 5 times.(âí•£úÿÿÿÿ
-[
-java:S2184%"FCast one of the operands of this multiplication operation to a "long".(äÁÙD
-T
-java:S1854""7Remove this useless assignment to local variable "num".(õÂÓí8Ñ¥Ÿº/
-E
-java:S1481""(Remove this unused "num" local variable.(õÂÓí8Ñ¥Ÿº/
+k
+java:S1192"KDefine a constant instead of duplicating this literal "boolean:{}" 5 times.(âí•£úÿÿÿÿ8ı”ƒ/
+`
+java:S2184"FCast one of the operands of this multiplication operation to a "long".(äÁÙD8ı”ƒ/

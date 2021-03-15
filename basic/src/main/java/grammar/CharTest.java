@@ -9,7 +9,7 @@ import org.slf4j.LoggerFactory;
  * @Created: 2021/03/10 22:08
  */
 public class CharTest {
-    static Logger logger = LoggerFactory.getLogger(DataTypeConversion.class.getName());
+    static Logger logger = LoggerFactory.getLogger(CharTest.class.getName());
 
     public static void main(String[] args) {
         testChar1();

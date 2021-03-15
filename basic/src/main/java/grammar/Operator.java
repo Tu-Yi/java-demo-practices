@@ -18,6 +18,21 @@ public class Operator {
         logicOperator();
     }
 
+
+    /**
+     * @Description: 多种数据类型参与运算的时候，整数类型，浮点类型，字符类型都可以参与运算，
+     * 唯独布尔类型不可以参与运
+     * @Return: void
+     *
+     * @Creator: Tu-Yi
+     * @Date: 2021/1/5 12:59
+     *
+     */
+    public static void calBoolean(){
+        //cannot be applied to 'double', 'boolean
+        //double d2 = 12+1294L+8.5F+3.81+'a'+true;
+    }
+
     /**
      * @Description: 小心除法
      * @Return: void
