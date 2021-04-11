@@ -1,31 +1,31 @@
 
-f
-java:S1192"MDefine a constant instead of duplicating this literal "&&&&&&&&&&&&" 6 times.(ÁÌÂøÿÿÿÿ
-k
-java:S3776"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(¡şÏÖøÿÿÿÿ
-Q
-java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
-Q	java:S106"9Replace this use of System.out or System.err by a logger.(‹µ‹¶ıÿÿÿÿ
-Q	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
-Q	java:S106"9Replace this use of System.out or System.err by a logger.(ÁÌÂøÿÿÿÿ
-Q	java:S106"9Replace this use of System.out or System.err by a logger.(‹µ‹¶ıÿÿÿÿ
-Q	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
-Q	java:S106"9Replace this use of System.out or System.err by a logger.(ÁÌÂøÿÿÿÿ
-Q	java:S106"9Replace this use of System.out or System.err by a logger.(‹µ‹¶ıÿÿÿÿ
-Q	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
-Q	java:S106"9Replace this use of System.out or System.err by a logger.(ÁÌÂøÿÿÿÿ
-Q	java:S106"9Replace this use of System.out or System.err by a logger.(ú·˜ıÿÿÿÿ
-Q	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
-Q	java:S106"9Replace this use of System.out or System.err by a logger.(ÁÌÂøÿÿÿÿ
-Q	java:S106"9Replace this use of System.out or System.err by a logger.(°¯ÿÁüÿÿÿÿ
-Q	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
-Q	java:S106"9Replace this use of System.out or System.err by a logger.(ÁÌÂøÿÿÿÿ
-L	java:S106"9Replace this use of System.out or System.err by a logger.(ÙóÅŠ
-Q	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
-Q	java:S106"9Replace this use of System.out or System.err by a logger.(ÁÌÂøÿÿÿÿ
-L	java:S106"9Replace this use of System.out or System.err by a logger.(×•œ²
-Q	java:S106"9Replace this use of System.out or System.err by a logger.(‹µ‹¶ıÿÿÿÿ
-Q	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
-N
-java:S1119";Refactor the code to remove this label and the need for it.(àÏÅ)
-Q	java:S106"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ
+S	java:S106?"9Replace this use of System.out or System.err by a logger.(ÁÌÂøÿÿÿÿ
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(ú·˜ıÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(‹µ‹¶ıÿÿÿÿ
+P
+java:S1119`";Refactor the code to remove this label and the need for it.(àÏÅ)
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‹µ‹¶ıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S106M"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S106g"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ
+h
+java:S1192"MDefine a constant instead of duplicating this literal "&&&&&&&&&&&&" 6 times.(ÁÌÂøÿÿÿÿ
+S
+java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÁÌÂøÿÿÿÿ
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(°¯ÿÁüÿÿÿÿ
+N	java:S106W"9Replace this use of System.out or System.err by a logger.(×•œ²
+N	java:S106K"9Replace this use of System.out or System.err by a logger.(ÙóÅŠ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÁÌÂøÿÿÿÿ
+S	java:S1068"9Replace this use of System.out or System.err by a logger.(ÁÌÂøÿÿÿÿ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(ÁÌÂøÿÿÿÿ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‹µ‹¶ıÿÿÿÿ
+S	java:S106Z"9Replace this use of System.out or System.err by a logger.(‹µ‹¶ıÿÿÿÿ
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(¡şÏÖøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S106O"9Replace this use of System.out or System.err by a logger.(ÁÌÂøÿÿÿÿ
+S	java:S106="9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S106\"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ

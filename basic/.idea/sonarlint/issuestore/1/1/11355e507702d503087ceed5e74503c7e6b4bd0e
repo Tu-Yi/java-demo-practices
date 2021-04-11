@@ -1,30 +1,30 @@
 
-X	java:S106"9Replace this use of System.out or System.err by a logger.(Å¾Ç¥üÿÿÿÿ8ı”ƒ/
-V	java:S125"<This block of commented-out lines of code should be removed.(Ñ¡Ğ 8ı”ƒ/
-R	java:S106"9Replace this use of System.out or System.err by a logger.(ƒÚáB8ı”ƒ/
-X	java:S106"9Replace this use of System.out or System.err by a logger.(¤ÁÉØøÿÿÿÿ8ı”ƒ/
-S	java:S106"9Replace this use of System.out or System.err by a logger.(”ÖÁ8ı”ƒ/
-X	java:S106"9Replace this use of System.out or System.err by a logger.(œ¬§ıÿÿÿÿ8ı”ƒ/
-S	java:S106"9Replace this use of System.out or System.err by a logger.(Í¸èÅ8ı”ƒ/
-X	java:S106"9Replace this use of System.out or System.err by a logger.(‹œâèûÿÿÿÿ8ı”ƒ/
-S	java:S106"9Replace this use of System.out or System.err by a logger.(«Õ¾õ8ı”ƒ/
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ïêÜü8ı”ƒ/
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ŠÊ…8ı”ƒ/
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ï©è€8ı”ƒ/
-S
-java:S1197"8Move the array designator from the variable to the type.(±ıâ˜8ı”ƒ/
-X	java:S106"9Replace this use of System.out or System.err by a logger.(›µ²Øøÿÿÿÿ8ı”ƒ/
-S	java:S106"9Replace this use of System.out or System.err by a logger.(Ç¿¯Ú8ı”ƒ/
-X	java:S106"9Replace this use of System.out or System.err by a logger.(“’Ó°øÿÿÿÿ8ı”ƒ/
-X	java:S106"9Replace this use of System.out or System.err by a logger.(ÕÀëæÿÿÿÿÿ8ı”ƒ/
-‘
-java:S2159"qUse "Arrays.equals(array1, array2)" or the "==" operator instead of using the "Object.equals(Object obj)" method.(ÕÀëæÿÿÿÿÿ8ı”ƒ/
-X	java:S106"9Replace this use of System.out or System.err by a logger.(Á™¦Üıÿÿÿÿ8ı”ƒ/
-X	java:S106"9Replace this use of System.out or System.err by a logger.(êı«úÿÿÿÿ8ı”ƒ/
-X
-java:S1197"8Move the array designator from the variable to the type.(‚ ÎÎúÿÿÿÿ8ı”ƒ/
-X	java:S106"9Replace this use of System.out or System.err by a logger.(å×ñûÿÿÿÿ8ı”ƒ/
-X	java:S106"9Replace this use of System.out or System.err by a logger.(êı«úÿÿÿÿ8ı”ƒ/
-S	java:S106"9Replace this use of System.out or System.err by a logger.(×Æáî8ı”ƒ/
-S	java:S106"9Replace this use of System.out or System.err by a logger.(œ•é‹8ı”ƒ/
-X	java:S106"9Replace this use of System.out or System.err by a logger.(ëØëÙùÿÿÿÿ8ı”ƒ/
+V	java:S106‡"9Replace this use of System.out or System.err by a logger.(ŠÊ…8ı”ƒ/
+V	java:S106Ì"9Replace this use of System.out or System.err by a logger.(œ•é‹8ı”ƒ/
+X	java:S125"<This block of commented-out lines of code should be removed.(Ñ¡Ğ 8ı”ƒ/
+U	java:S106O"9Replace this use of System.out or System.err by a logger.(Í¸èÅ8ı”ƒ/
+Z	java:S106Q"9Replace this use of System.out or System.err by a logger.(‹œâèûÿÿÿÿ8ı”ƒ/
+Z	java:S106>"9Replace this use of System.out or System.err by a logger.(¤ÁÉØøÿÿÿÿ8ı”ƒ/
+U	java:S106n"9Replace this use of System.out or System.err by a logger.(«Õ¾õ8ı”ƒ/
+Z	java:S106L"9Replace this use of System.out or System.err by a logger.(œ¬§ıÿÿÿÿ8ı”ƒ/
+”
+java:S2159œ"qUse "Arrays.equals(array1, array2)" or the "==" operator instead of using the "Object.equals(Object obj)" method.(ÕÀëæÿÿÿÿÿ8ı”ƒ/
+[	java:S106"9Replace this use of System.out or System.err by a logger.(Á™¦Üıÿÿÿÿ8ı”ƒ/
+[	java:S106”"9Replace this use of System.out or System.err by a logger.(›µ²Øøÿÿÿÿ8ı”ƒ/
+[	java:S106Ù"9Replace this use of System.out or System.err by a logger.(ëØëÙùÿÿÿÿ8ı”ƒ/
+[
+java:S1197©"8Move the array designator from the variable to the type.(‚ ÎÎúÿÿÿÿ8ı”ƒ/
+V	java:S106‚"9Replace this use of System.out or System.err by a logger.(ïêÜü8ı”ƒ/
+U	java:S106@"9Replace this use of System.out or System.err by a logger.(”ÖÁ8ı”ƒ/
+[	java:S106³"9Replace this use of System.out or System.err by a logger.(å×ñûÿÿÿÿ8ı”ƒ/
+[	java:S106œ"9Replace this use of System.out or System.err by a logger.(ÕÀëæÿÿÿÿÿ8ı”ƒ/
+V	java:S106"9Replace this use of System.out or System.err by a logger.(ï©è€8ı”ƒ/
+V
+java:S1197’"8Move the array designator from the variable to the type.(±ıâ˜8ı”ƒ/
+[	java:S106š"9Replace this use of System.out or System.err by a logger.(“’Ó°øÿÿÿÿ8ı”ƒ/
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(Å¾Ç¥üÿÿÿÿ8ı”ƒ/
+T	java:S106("9Replace this use of System.out or System.err by a logger.(ƒÚáB8ı”ƒ/
+[	java:S106º"9Replace this use of System.out or System.err by a logger.(êı«úÿÿÿÿ8ı”ƒ/
+V	java:S106–"9Replace this use of System.out or System.err by a logger.(Ç¿¯Ú8ı”ƒ/
+[	java:S106¦"9Replace this use of System.out or System.err by a logger.(êı«úÿÿÿÿ8ı”ƒ/
+V	java:S106¿"9Replace this use of System.out or System.err by a logger.(×Æáî8ı”ƒ/

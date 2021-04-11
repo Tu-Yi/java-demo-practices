@@ -1,5 +1,5 @@
 
-k
-java:S1192"KDefine a constant instead of duplicating this literal "boolean:{}" 5 times.(âí•£úÿÿÿÿ8ı”ƒ/
-`
-java:S2184"FCast one of the operands of this multiplication operation to a "long".(äÁÙD8ı”ƒ/
+b
+java:S21847"FCast one of the operands of this multiplication operation to a "long".(äÁÙD8ı”ƒ/
+m
+java:S1192{"KDefine a constant instead of duplicating this literal "boolean:{}" 5 times.(âí•£úÿÿÿÿ8ı”ƒ/

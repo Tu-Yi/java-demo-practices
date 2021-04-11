@@ -1,8 +1,8 @@
 
-^
-java:S3518"CMake sure this expression can't be zero before doing this division.(Ï¦²Ê8ýž”žƒ/
-c
-java:S3518"CMake sure this expression can't be zero before doing this division.(’ü­Ëûÿÿÿÿ8ýž”žƒ/
-[	java:S125"<This block of commented-out lines of code should be removed.(Ñ·áàùÿÿÿÿ8ýž”žƒ/
-9
-java:S2178"Correct this "&" to "&&".(’ü­Ëûÿÿÿÿ8ýž”žƒ/
+e
+java:S3518W"CMake sure this expression can't be zero before doing this division.(’ü­Ëûÿÿÿÿ8ýž”žƒ/
+]	java:S125!"<This block of commented-out lines of code should be removed.(Ñ·áàùÿÿÿÿ8ýž”žƒ/
+;
+java:S2178W"Correct this "&" to "&&".(’ü­Ëûÿÿÿÿ8ýž”žƒ/
+`
+java:S3518S"CMake sure this expression can't be zero before doing this division.(Ï¦²Ê8ýž”žƒ/

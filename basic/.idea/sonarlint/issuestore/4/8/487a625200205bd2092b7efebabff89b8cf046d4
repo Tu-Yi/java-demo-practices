@@ -1,0 +1,42 @@
+
+V
+java:S4973U"9Use the "equals" method if value comparison was intended.(Ãò•¡8šæËÊƒ/
+[
+java:S4973S"9Use the "equals" method if value comparison was intended.( œ´¬ûÿÿÿÿ8šæËÊƒ/
+O
+java:S1199c"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8šæËÊƒ/
+V
+java:S4973`"9Use the "equals" method if value comparison was intended.(¤ÍÚå8šæËÊƒ/
+G
+java:S1125’")Remove the literal "false" boolean value.(Ö†øÄ8§—ĞÊƒ/
+[
+java:S4973I"9Use the "equals" method if value comparison was intended.(Ç‘Çİşÿÿÿÿ8šæËÊƒ/
+X	java:S125l"<This block of commented-out lines of code should be removed.(ôƒ˜…8šæËÊƒ/
+O
+java:S1199~"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8šæËÊƒ/
+P
+java:S1199"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8§—ĞÊƒ/
+[
+java:S4973K"9Use the "equals" method if value comparison was intended.(’šË¶øÿÿÿÿ8šæËÊƒ/
+P
+java:S1199†"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8¥»ÏÊƒ/
+]
+java:S1854‚":Remove this useless assignment to local variable "int100".(šáŒ¥ùÿÿÿÿ8šæËÊƒ/
+V
+java:S4973^"9Use the "equals" method if value comparison was intended.(©íƒ§8šæËÊƒ/
+f
+java:S2583‹"CChange this condition so that it does not always evaluate to "true"( ¬Œîøÿÿÿÿ8¥»ÏÊƒ/
+X
+java:S1854‹"5Remove this useless assignment to local variable "x".( ¬Œîøÿÿÿÿ8¥»ÏÊƒ/
+w
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(®‰œã8§—ĞÊƒ/
+I
+java:S1481‹"&Remove this unused "x" local variable.( ¬Œîøÿÿÿÿ8¥»ÏÊƒ/
+a
+java:S2583’"CChange this condition so that it does not always evaluate to "true"(Ö†øÄ8§—ĞÊƒ/
+N
+java:S1481‚"+Remove this unused "int100" local variable.(šáŒ¥ùÿÿÿÿ8šæËÊƒ/
+O
+java:S1199k"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8šæËÊƒ/
+O
+java:S1199u"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8šæËÊƒ/

@@ -1,0 +1,34 @@
+
+[
+java:S49734"9Use the "equals" method if value comparison was intended.(éİ¥óÿÿÿÿÿ8„òÍƒ/
+B
+java:S2129" Remove this "String" constructor(«şøáûÿÿÿÿ8Œ³äÍƒ/
+O
+java:S1199;"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8¤—©Îƒ/
+n
+java:S1192'"LDefine a constant instead of duplicating this literal "hello,world" 3 times.(®Ûïşÿÿÿÿ8ôÖîÍƒ/
+[
+java:S4973."9Use the "equals" method if value comparison was intended.(Ó›ïéøÿÿÿÿ8„òÍƒ/
+B
+java:S2129*" Remove this "String" constructor(òÙ¶øşÿÿÿÿ8ôÖîÍƒ/
+Z	java:S106?"9Replace this use of System.out or System.err by a logger.(“¯ëÙşÿÿÿÿ8¤—©Îƒ/
+Z	java:S106F"9Replace this use of System.out or System.err by a logger.(Ûîñıÿÿÿÿ8åš¯Îƒ/
+O
+java:S1199A"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8åš¯Îƒ/
+[
+java:S49730"9Use the "equals" method if value comparison was intended.(È–Çûÿÿÿÿ8„òÍƒ/
+O
+java:S1199"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8Œ³äÍƒ/
+V
+java:S4973"9Use the "equals" method if value comparison was intended.(•ø…Ú8óƒåÍƒ/
+[
+java:S4973"9Use the "equals" method if value comparison was intended.(£ï‡Íúÿÿÿÿ8Œ³äÍƒ/
+B
+java:S2129)" Remove this "String" constructor(ò»şôşÿÿÿÿ8ôÖîÍƒ/
+U	java:S1069"9Replace this use of System.out or System.err by a logger.(Œ‡Ú8™ê±Îƒ/
+U
+java:S49732"9Use the "equals" method if value comparison was intended.(Úùµ8„òÍƒ/
+O
+java:S1199!"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8™ùêÍƒ/
+O
+java:S11998"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8™ê±Îƒ/
